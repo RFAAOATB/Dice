@@ -1,0 +1,9 @@
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\bin\Release\DiceGame.exe
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\bin\Release\DiceGame.pdb
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\DiceGame.frmDiceGame.resources
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\DiceGame.Properties.Resources.resources
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\DiceGame.exe
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Release\DiceGame.pdb

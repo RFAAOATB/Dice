@@ -16,3 +16,12 @@ C:\Users\MJPITARO\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x8
 C:\Users\MJPITARO\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Properties.Resources.resources
 C:\Users\MJPITARO\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\MJPITARO\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\DiceGame.exe
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\DiceGame.pdb
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\DiceGame.frmDiceGame.resources
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\DiceGame.Properties.Resources.resources
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MJPITARO\Documents\GitHub\Dice\DiceGame\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -282,6 +282,8 @@ namespace DiceGame
                     txtFourth.Text = fourthNumber.ToString();
                     isWinner = isWinner && (isHigher[3] == guessHigher[3]);
                 }
+                //Should not press reveal twice
+                btnReveal.Enabled = false;
                 // Did you win?
                 txtMessage.Text = (isWinner) ? "You win." : "You lose.";
                 
